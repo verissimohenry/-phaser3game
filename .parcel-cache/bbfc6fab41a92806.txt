@@ -1,6 +1,6 @@
 14348
 39/home/henry/-phaser3game/src/index.html1670432458901857307 0
-48/home/henry/-phaser3game/src/scenes/GameScene.js1670433359526850715 0
+48/home/henry/-phaser3game/src/scenes/GameScene.js1670433535115524965 0
 37/home/henry/-phaser3game/.eslintrc.js1670417405759313407 0
 33/home/henry/-phaser3game/.babelrc1670417405759313407 0
 35/home/henry/-phaser3game/.gitignore1670417405759313407 0
@@ -229,7 +229,7 @@
 71/home/henry/-phaser3game/node_modules/uri-js/dist/esnext/regexps-iri.js1670418440330585300 0
 67/home/henry/-phaser3game/node_modules/uri-js/dist/esnext/index.d.ts1670418441154687259 0
 56/home/henry/-phaser3game/node_modules/uri-js/dist/esnext1670418441182690719 1
-51/home/henry/-phaser3game/dist/index.4d6bcbeb.js.map1670432481438399035 0
+51/home/henry/-phaser3game/dist/index.4d6bcbeb.js.map1670433668755038027 0
 68/home/henry/-phaser3game/node_modules/uri-js/dist/es5/uri.all.js.map1670418441090679350 0
 68/home/henry/-phaser3game/node_modules/uri-js/dist/es5/uri.all.min.js1670418440862651146 0
 72/home/henry/-phaser3game/node_modules/uri-js/dist/es5/uri.all.min.js.map1670418441122683304 0
@@ -1273,7 +1273,7 @@
 88/home/henry/-phaser3game/node_modules/rxjs/_esm2015/internal/util/subscribeToIterable.js1670418443098927282 0
 91/home/henry/-phaser3game/node_modules/rxjs/_esm2015/internal/util/subscribeToPromise.js.map1670418444927152335 0
 85/home/henry/-phaser3game/node_modules/rxjs/_esm2015/internal/util/toSubscriber.js.map1670418445095172986 0
-36/home/henry/-phaser3game/src/main.js1670417405759313407 0
+36/home/henry/-phaser3game/src/main.js1670433668155022325 0
 83/home/henry/-phaser3game/node_modules/rxjs/_esm2015/internal/util/isIterable.js.map1670418443863021413 0
 68/home/henry/-phaser3game/node_modules/@babel/code-frame/package.json1670418440106557575 0
 90/home/henry/-phaser3game/node_modules/rxjs/_esm2015/internal/util/subscribeToObservable.js1670418443110928761 0
@@ -5178,7 +5178,7 @@
 80/home/henry/-phaser3game/node_modules/@parcel/packager-js/node_modules/type-fest1670422601771316490 1
 76/home/henry/-phaser3game/node_modules/resolve/test/resolver/baz/package.json1670418441746760420 0
 66/home/henry/-phaser3game/node_modules/table/dist/drawTable.js.flow1670418440718633323 0
-47/home/henry/-phaser3game/dist/index.4d6bcbeb.js1670432481374397496 0
+47/home/henry/-phaser3game/dist/index.4d6bcbeb.js1670433668715036981 0
 72/home/henry/-phaser3game/node_modules/@parcel/node-resolver-core/LICENSE1670422606655316431 0
 66/home/henry/-phaser3game/node_modules/postcss-value-parser/LICENSE1670422602059316486 0
 76/home/henry/-phaser3game/node_modules/eslint/lib/rules/prefer-rest-params.js1670418449767745215 0
@@ -6332,7 +6332,7 @@
 89/home/henry/-phaser3game/node_modules/rxjs/_esm2015/internal/testing/HotObservable.js.map1670418443795013035 0
 77/home/henry/-phaser3game/node_modules/caniuse-lite/data/features/vibration.js1670418447175428240 0
 80/home/henry/-phaser3game/node_modules/@parcel/core/test/PublicDependency.test.js1670422638995316043 0
-40/home/henry/-phaser3game/dist/index.html1670432480862385183 0
+40/home/henry/-phaser3game/dist/index.html1670433668263025150 0
 92/home/henry/-phaser3game/node_modules/phaser/src/tilemaps/components/GetCullTilesFunction.js1670419329453098097 0
 65/home/henry/-phaser3game/node_modules/@parcel/packager-js/LICENSE1670422628663316167 0
 65/home/henry/-phaser3game/node_modules/@parcel/workers/src/process1670422609191316400 1
@@ -6662,7 +6662,7 @@
 65/home/henry/-phaser3game/node_modules/@parcel/package-manager/src1670422633755316105 1
 114/home/henry/-phaser3game/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob1670422606727316430 1
 64/home/henry/-phaser3game/node_modules/@parcel/cache/lib/types.js1670422608583316407 0
-29/home/henry/-phaser3game/dist1670432481454399420 1
+29/home/henry/-phaser3game/dist1670433668791038970 1
 65/home/henry/-phaser3game/node_modules/eslint/lib/rules/no-tabs.js1670418449547718352 0
 79/home/henry/-phaser3game/node_modules/phaser/src/gameobjects/shape/grid/Grid.js1670419329513102760 0
 99/home/henry/-phaser3game/node_modules/phaser/src/gameobjects/bitmaptext/typedefs/BitmapTextLines.js1670419328969060481 0
