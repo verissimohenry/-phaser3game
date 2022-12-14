@@ -1,5 +1,5 @@
 import Phaser from 'phaser'
-import Bg from "../../public/assets/background.jpg"
+import Bg from '../home/henry/-phaser3game/public/assets/background.jpg'
 
 class PreloadScene extends Phaser.Scene
 {
